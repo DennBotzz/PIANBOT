@@ -60,18 +60,18 @@ global.ppulsa2 = '089980870067'
 global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6288980870067'
-global.nomorown = '6283866366437'
-global.namebot = 'Sagiri Botz'
-global.nameown = 'Kanna Chan'
+global.nomorbot = '628987768250'
+global.nomorown = '6281991134619'
+global.namebot = 'DennBotzz'
+global.nameown = 'DennBotzz'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437'],
-  ['6283866366437', 'Kanna Chan', true]
+  ['6281991134619'],
+  ['6281991134619'],
+  ['6281991134619'],
+  ['6281991134619', 'DennBotzz', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,12 +116,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Sagiri Botz 」' //Main Watermark
-global.wm2 = 'Sagiri Botz'
-global.wm3 = '⛧Sagiri Botz'
+global.wm = '                「 DennBotzz 」' //Main Watermark
+global.wm2 = 'DennBotzz'
+global.wm3 = '⛧DennBotzz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '⛧┊ Sagiri Botz'
+global.titlebot = '⛧┊ DennBotzz'
 global.author = global.wm
 
 
